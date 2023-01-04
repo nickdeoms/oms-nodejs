@@ -1,2 +1,2 @@
-# oms_nodejs
-oms nodejs
+# oms-nodejs
+oms-nodejs
